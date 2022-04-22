@@ -1,0 +1,11 @@
+{
+    "home":{
+        "title": "Продукты",
+        "basket_count" : "Корзина",
+        "total_price": "Общий "
+    },
+    "basket":{
+        "title":"Корзина",
+        "empty_basket" : "Твой корзина нечего нет"
+    }
+}

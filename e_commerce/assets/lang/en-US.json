@@ -1,0 +1,11 @@
+{
+    "home":{
+        "title": "Products",
+        "basket_count" : "In basket",
+        "total_price": "Total "
+    },
+    "basket":{
+        "title":"Basket",
+        "empty_basket" : "Your basket is free..."
+    }
+}
